@@ -990,6 +990,20 @@
         },
         "summary": "Themes for Sense Roms for Thunderbolt"
     },
+	{
+
+		"developer": "Preludedrew",
+		"free": "true",
+		"id": "Evervolv",
+		"manifest": "http://mirror.evervolv.com/ROMManagerManifest/evervolv.js",
+		"roms":  {
+		   "speedy": "true",
+		   "inc": "true",
+		   "supersonic": "true",
+		   "passion": "true"
+		}
+		"summary": "A fast and sexy ROM based off AOSP"
+	},
     {
         "developer": "Google Apps",
         "free": "true",
@@ -1022,6 +1036,7 @@
             "desirec": "true"
         },
         "summary": "Add-on for AOSP ROMs, such as CM"
+		
     }],
     "minversion": "3017"
 }
