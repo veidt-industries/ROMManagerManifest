@@ -995,7 +995,7 @@
 		"developer": "Preludedrew",
 		"free": "true",
 		"id": "Evervolv",
-		"manifest": "http://mirror.evervolv.com/ROMManagerManifest/evervolv.js",
+		"manifest": "https://github.com/veidt-industries/ROMManagerManifest/raw/e230bea8a1523b0251e6ceb2ac23cafb5910cc4b/evervolv.js",
 		"roms":  {
 		   "speedy": "true",
 		   "inc": "true",
